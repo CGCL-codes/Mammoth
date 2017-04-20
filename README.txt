@@ -13,3 +13,9 @@ You must specify the child jvm options before running your job, eg:
 This parameter is the only one required to be manually specified because Mammoth can maximize the usage of memory 
 in runtime using a rule-based heuristic. You can learn more about the Mammoth on the following page: 
 http://grid.hust.edu.cn/xhshi/projects/mammoth.htm.
+
+The technical paper about Mammoth has been published in IEEE Transactions on Parallel and Distributed systems, which has been recommended as Spotlight of Transactions in IEEE Computer. More information are as follows:
+
+Xuanhua Shi, Ming Chen, Ligang He, Xu Xie, Lu Lu, Hai Jin, Yong Chen, and Song Wu, "Mammoth: Gearing Hadoop Towards Memory-Intensive MapReduce Applications", IEEE Transactions on Parallel and Distributed Systems, 26(8):2300-2315, 2015.
+
+Hai Jin, "When Data Grows Big", Computer, 2014
